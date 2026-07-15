@@ -77,6 +77,10 @@ For the example user `linuxUser`, the home directory is:
 
 The symbol `~` represents the home directory of the current user.
 
+IMPORTANT: if your keyboard does not let you to write ~ you have the following solution: 
+ - in Windows you can use ALT + 126
+ - in LINUX you can use CTRL+SHIFT+U and then it will appear an underline u and then you write 7e (code of tilde (~)) an then click enter and finally it will appear
+
 For the example user:
 
 ```text
