@@ -3,13 +3,7 @@
 > **Note:** In this guide, `linuxUser` is used as an example username.  
 > Replace it with your actual Linux username when running the commands.
 
-## Exam Result
-
-```text
-Module: 01-linux-fundamentals
-Status: PASSED
-Score: 91/100
-```
+## Exam
 
 This practical exam verified the ability to combine the Linux fundamentals studied in the previous lessons.
 
@@ -1014,33 +1008,6 @@ The main improvement areas are:
 In DevOps work, small inconsistencies can become production incidents.
 
 Correct commands are not enough. Precision and verification are also required.
-
----
-
-## Final Evaluation
-
-| Area | Result |
-|---|---:|
-| Structure | Passed |
-| Configuration files | Passed |
-| Backup files | Passed |
-| Log creation and inspection | Passed |
-| Globbing and brace expansion | Passed |
-| Quoting and variables | Passed |
-| Operational safety | Passed |
-| Final report | Passed |
-
-Final score:
-
-```text
-91/100
-```
-
-Final status:
-
-```text
-01-linux-fundamentals: PASSED
-```
 
 ---
 
